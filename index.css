@@ -1,0 +1,13 @@
+.size {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#canvasElement {
+}
+
+#result {
+  margin-left: 620px;
+  margin-top: 150px;
+}
